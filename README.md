@@ -7,7 +7,7 @@
 ## 📂 Repository Contents
 
 - **`SkO_Model.3dm`** – 3D model of the Skyline Orbit vehicle created in Rhino.  
-- **Project Demonstration URL:** [View the SkO Web Demo](https://www.canva.com/design/DAG01LYmMWc/HHVCdEPUJJU38-edGFOTyQ/edit?utm_content=DAG01LYmMWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Project Demonstration URL:** [View the SkO Web Demo]([https://www.canva.com/design/DAG01LYmMWc/HHVCdEPUJJU38-edGFOTyQ/edit?utm_content=DAG01LYmMWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://skylineorbit.us/skylineorbit-web))
 
 ---
 
@@ -135,7 +135,7 @@ Enable sustainable, long-term use of LEO through modular in-orbit servicing that
 
 ## 🔗 Links
 
-- **Web Demo:** [Canva SkO Demo](https://www.canva.com/design/DAG01LYmMWc/HHVCdEPUJJU38-edGFOTyQ/edit?utm_content=DAG01LYmMWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+- **Web Demo:** [Canva SkO Demo]([https://www.canva.com/design/DAG01LYmMWc/HHVCdEPUJJU38-edGFOTyQ/edit?utm_content=DAG01LYmMWc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://skylineorbit.us/skylineorbit-web))  
 - **Rhino Model File:** `OTS_Model.3dm`  
 
 ---
